@@ -17,7 +17,6 @@ const SecondsCounter = ({ seconds }) => {
             <div className="border rounded p-2 mx-1">{digitFive}</div>
             <div className="border rounded p-2 mx-1">{digitFour}</div>
             <div className="border rounded p-2 mx-1">{digitThree}</div>
-            <div className="border rounded p-2 mx-1">{digitThree}</div>
             <div className="border rounded p-2 mx-1">{digitTwo}</div>
             <div className="border rounded p-2 mx-1">{digitOne}</div>
         </div>
